@@ -12,8 +12,9 @@ To download, visit https://alpaca.markets/ for more information.
 **Installation**
 
 1. Make sure that the latest version of Python is installed on your system
-2. Download the _AlpacaShephard.py_ file
-3. Save it to any desired directory
+2. Download all of the required depndencies (_alpaca-trade-api_ and _alpaca-py_)
+3. Download the _AlpacaShephard.py_ file
+4. Save it to any desired directory
 
 
 **Examples**
