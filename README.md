@@ -2,7 +2,7 @@
 
 (This project is NOT associated with the official Alpaca API. Visit https://alpaca.markets/ to use the official Alpaca API)
 
-The AlpacaShephard file is an open-source Python class that works with the Alpaca API by adding a light layer of flexibility already established in the Alpaca API. This project aims to bring more security and protection for users that want to pursue algorithmic trading who seek more readability while maintaining low computing complexity as much as possible. I created this as part of my expirementation/journey in algorithmic trading and wanted a solution that was custom to my requirements.
+The AlpacaShephard file is an open-source Python class that works with the Alpaca API by adding a light layer of flexibility similair to what is established in the Alpaca API. This project aims to bring more security and protection for users that want to pursue algorithmic trading who seek more readability while maintaining low computing complexity as much as possible. I created this as part of my expirementation/journey in algorithmic trading and wanted a solution that was custom to my requirements.
 
 **Requirements**
 
